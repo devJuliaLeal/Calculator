@@ -59,4 +59,5 @@ table td {
   text-align: right;
   font-size: 35px;
   word-wrap: break-word;
+  border-bottom: 1px solid #1a7068;
 }
